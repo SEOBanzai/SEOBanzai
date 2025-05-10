@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SEOBanzai
 - 👀 I’m interested in Low-Level Programming, Web Development, Servers, Hardware stuff, hacking :-)
 - 🌱 I’m currently learning ARM Assembly
-- 📫 How to reach me: office@seobanzai[dot]com
+- 📫 How to reach me: office@seobanzai[dot]com or the website: [SEOBanzai](https://seobanzai.com)
 - 😄 Pronouns: He/Him
 
 <!---
